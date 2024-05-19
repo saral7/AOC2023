@@ -1,0 +1,11 @@
+L
+
+AAA = (BBB, CCC)
+BBB = (ZZZ, CCC)
+ZZZ = (BBB, CCC)
+11A = (113, CCC)
+113 = (114, CCC)
+114 = (115, CCC)
+115 = (11Z, CCC)
+11Z = (116, CCC)
+116 = (114, CCC)

@@ -1,0 +1,15 @@
+jz{m<1130:R,m>1525:A,R}
+cb{m<1514:R,s<791:A,a>1449:R,xmm}
+cn{x<3563:R,R}
+qb{m>1908:A,a>1204:xmt,x>1001:A,zgl}
+dr{m<3408:A,a>1459:A,x>1500:R,R}
+nfv{a<1625:bbz,A}
+zzt{s>3266:R,s<2765:A,R}
+tk{m<852:gkx,s<2289:fh,A}
+qc{a<1680:R,R}
+klm{x<1453:R,m<2557:A,vms}
+zc{x>2239:sqj,a<2898:cch,s>3063:xjt,sdq}
+pdn{s>626:A,m>982:A,R}
+ld{s>1514:qj,a>1307:lff,jjf}
+rtt{x>377:R,m<2066:R,R}
+njn{a<3023:R,R}
